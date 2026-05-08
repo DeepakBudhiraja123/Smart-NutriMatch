@@ -47,15 +47,12 @@ Nutri-Match/
 ├── backend/
 │   ├── main.py
 │   ├── constants.py
-│   ├── scoring.py
-│   └── recommendation_engine.py
+│   ├── nutrient_file.csv
 │
-├── frontend/
+├── 
 │   ├── src/
 │   ├── components/
-│   └── context/
-│
-├── datasets/
+│   └── pages/
 │
 └── README.md
 ```
@@ -115,7 +112,7 @@ Top-ranked food items are recommended based on:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/nutri-match.git
+git https://github.com/DeepakBudhiraja123/Smart-NutriMatch.git
 cd nutri-match
 ```
 
@@ -214,7 +211,7 @@ Nutri Match addresses these gaps by combining:
 ## Authors
 
 - Deepak Budhiraja
-- Team Members
+- Aryan Arora
 
 Punjab Engineering College
 
